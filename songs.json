@@ -1,9 +1,10 @@
 [
   {
-    "title": "NombreDeLaCancion_instrumental.mp3",
-    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/blob/69be51361ae6b44469abf2ce6784f39db4334c74/NombreDeLaCancion_instrumental.mp3",
-    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/blob/69be51361ae6b44469abf2ce6784f39db4334c74/NombreDeLaCancion_vocal.mp3",
+    "title": "Mi Primera Cancion",
+    "instrumentalUrl": "https://raw.githubusercontent.com/Froylan123/tdf-mk-player/main/Mi%20Primera%20Cancion_instrumental.mp3",
+    "vocalUrl": "https://raw.githubusercontent.com/Froylan123/tdf-mk-player/main/Mi%20Primera%20Cancion_vocal.mp3",
     "lyrics": null
-  },
-
+  }
 ]
+
+
