@@ -1,11 +1,67 @@
 [
   {
-    "title": "Mi Primera Cancion",
+    "title": "Que lo nuestro se quede nuestro",
     "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/NombreDeLaCancion_instrumental.mp3",
     "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/NombreDeLaCancion_vocal.mp3",
     "lyrics": null
   }
+    {
+    "title": "Banda MS de Sergio Lizárraga & Alfredo Olivas – Tengo Claro",
+    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Banda%20MS%20de%20Sergio%20Liz%C3%A1rraga%20&%20Alfredo%20Olivas%20%E2%80%93%20Tengo%20Claro_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Banda%20MS%20de%20Sergio%20Liz%C3%A1rraga%20&%20Alfredo%20Olivas%20%E2%80%93%20Tengo%20Claro_instrumental.mp3",
+    "lyrics": null
+  }
+    {
+    "title": "El Final De Nuestra Historia - Josi Cuen ft. Jorge Medina",
+    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/El%20Final%20De%20Nuestra%20Historia%20-%20Josi%20Cuen%20ft.%20Jorge%20Medina_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/El%20Final%20De%20Nuestra%20Historia%20-%20Josi%20Cuen%20ft.%20Jorge%20Medina_voz.mp3",
+    "lyrics": null
+  }
+    {
+    "title": "El Mimoso - En Esta Vida No Se Pudo",
+    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/El%20Mimoso%20-%20En%20Esta%20Vida%20No%20Se%20Pudo_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/El%20Mimoso%20-%20En%20Esta%20Vida%20No%20Se%20Pudo_voz.mp3",
+    "lyrics": null
+  }
+    {
+    "title": "Gerardo Coronel _El Jerry_ - Te Felicito",
+    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Gerardo%20Coronel%20_El%20Jerry_%20-%20Te%20Felicito_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Gerardo%20Coronel%20_El%20Jerry_%20-%20Te%20Felicito_voz.mp3",
+    "lyrics": null
+  }
+    {
+    "title": "Grupo Firme - Gerardo Coronel _El Jerry_ - Qué Onda Perdida",
+    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Grupo%20Firme%20-%20Gerardo%20Coronel%20_El%20Jerry_%20-%20Qu%C3%A9%20Onda%20Perdida_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Grupo%20Firme%20-%20Gerardo%20Coronel%20_El%20Jerry_%20-%20Qu%C3%A9%20Onda%20Perdida_voz.mp3",
+    "lyrics": null
+  }
+    {
+    "title": "Julión Álvarez y su Norteño Banda - Casi Completa",
+    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Juli%C3%B3n%20%C3%81lvarez%20y%20su%20Norte%C3%B1o%20Banda%20-%20Casi%20Completa_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Juli%C3%B3n%20%C3%81lvarez%20y%20su%20Norte%C3%B1o%20Banda%20-%20Casi%20Completa_voz.mp3",
+    "lyrics": null
+  }
+     {
+    "title": "Julión Álvarez y su Norteño Banda - Cero Empatía",
+    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Juli%C3%B3n%20%C3%81lvarez%20y%20su%20Norte%C3%B1o%20Banda%20-%20Cero%20Empat%C3%ADa_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Juli%C3%B3n%20%C3%81lvarez%20y%20su%20Norte%C3%B1o%20Banda%20-%20Cero%20Empat%C3%ADa_voz.mp3",
+    "lyrics": null
+  }
+     {
+    "title": "Julión Álvarez y su Norteño Banda - Regalo de Dios",
+    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Juli%C3%B3n%20%C3%81lvarez%20y%20su%20Norte%C3%B1o%20Banda%20-%20Regalo%20de%20Dios_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Juli%C3%B3n%20%C3%81lvarez%20y%20su%20Norte%C3%B1o%20Banda%20-%20Regalo%20de%20Dios_voz.mp3",
+    "lyrics": null
+  }
+     {
+    "title": "Julión Álvarez y su Norteño Banda - Vibra Perfecta",
+    "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Juli%C3%B3n%20%C3%81lvarez%20y%20su%20Norte%C3%B1o%20Banda%20-%20Vibra%20Perfecta_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Juli%C3%B3n%20%C3%81lvarez%20y%20su%20Norte%C3%B1o%20Banda%20-%20Vibra%20Perfecta_voz.mp3",
+    "lyrics": null
+  }
+
 ]
+
 
 
 
