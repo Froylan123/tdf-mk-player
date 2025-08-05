@@ -2,13 +2,13 @@
   {
     "title": "Que lo nuestro se quede nuestro",
     "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/NombreDeLaCancion_instrumental.mp3",
-    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/NombreDeLaCancion_vocal.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/NombreDeLaCancion_voz.mp3",
     "lyrics": null
   },
   {
     "title": "Banda MS de Sergio Lizárraga & Alfredo Olivas – Tengo Claro",
     "instrumentalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Banda%20MS%20de%20Sergio%20Liz%C3%A1rraga%20&%20Alfredo%20Olivas%20%E2%80%93%20Tengo%20Claro_instrumental.mp3",
-    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Banda%20MS%20de%20Sergio%20Liz%C3%A1rraga%20&%20Alfredo%20Olivas%20%E2%80%93%20Tengo%20Claro_instrumental.mp3",
+    "vocalUrl": "https://github.com/Froylan123/tdf-mk-player/raw/refs/heads/main/Banda%20MS%20de%20Sergio%20Liz%C3%A1rraga%20&%20Alfredo%20Olivas%20%E2%80%93%20Tengo%20Claro_voz.mp3",
     "lyrics": null
   },
   {
@@ -60,3 +60,4 @@
     "lyrics": null
   }
 ]
+
